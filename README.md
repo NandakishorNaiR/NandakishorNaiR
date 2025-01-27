@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NandakishorNaiR
-- 👀 I’m interested in 
+- 👀 I’m interested in Developing new Softwares & web Applications
 - 🌱 I’m currently learning in BTech CSE AI
-- 💞️ I’m looking to collaborate on VAriou Projects
+- 💞️ I’m looking to collaborate on VArious Projects
 - 📫 How to reach me at  2303051240130@paruluniversity.ac.in
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Life is Good, if we see everything in Right Way!
 
 <!---
 NandakishorNaiR/NandakishorNaiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
